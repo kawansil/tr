@@ -1,0 +1,163 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.tela {
+    margin-top: 30px;
+    background-color: rgb(255, 255, 255);
+    height: 100%;
+    width: 1000px;
+}
+
+.perfil {
+    margin-top: 10px;
+    display: flex;
+    gap: 9em;
+    margin-left: 80px;
+}
+
+
+.loguin {
+    background-color: rgb(185, 183, 183);
+    height: 50px;
+    width: 50px;
+}
+
+.paragrafo {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.meio {
+  margin-top: 100px;
+}
+
+.para {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    height: 150px;
+    width: 400px;
+    display: flex;
+    gap: 10em;
+    
+
+}
+.i{
+    display: flex;
+    gap: 5em;
+}
+.foto{
+    padding-right: 3px;
+    margin-left: 150px;
+    background-image: url(https://www.clubmotor.com.br/wp-content/uploads/2022/04/nc-750X-dct.jpg);
+    background-size:contain;
+    width: 800px;
+    height: 410px;
+   
+}
+.para1 {
+
+    margin-top: -230px;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    gap: 3em;
+}
+
+.meio1 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.d {
+    margin-top: 100px;
+    display: flex;
+    gap: 6em;
+}
+.titulo1{
+    margin-top: 50px;
+}
+
+.meio2 {
+    display: flex;
+    gap: 3em;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+.quasefinal {
+    gap: 4em;
+    display: flex;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    margin-top: 100px;
+}
+.quasefinal1{
+    margin-top: 50px;
+}
+.foto1{
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://jacaremoto.com.br/wp-content/uploads/2022/08/a-cg-202b.jpg);
+    height: 200px;
+    width: 200px;
+   
+}
+.foto2{
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://cdn.motor1.com/images/mgl/2NNX1p/s3/honda-biz-2023.webp);
+    height: 200px;
+    width: 200px;
+    
+}
+.foto3{
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://motos2023.com.br/wp-content/uploads/2022/01/honda-NXR-160-2023-1.jpg);
+    height: 200px;
+    width: 200px;
+}
+
+
+.final {
+    margin-top: 50px;
+    display: flex;
+    margin-left: 250px;
+    gap: 10em;
+}
+
+.titulofinal {
+    margin-top: 200px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.colaboradores {
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    margin-left: 10px;
+}
+
+.colaboradores1 {
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    margin-left: 10px;
+}
+
+.rodape {
+    display: flex;
+}
+p{
+    margin-left: 10px;
+}
+
